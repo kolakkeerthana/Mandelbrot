@@ -1,6 +1,6 @@
 # Mandelbrot
 Creating a basic Mandelbrot Set
-This Mandelbrot Set has been developed using Kotlin in IntelliJ using Gradle. The output displays a Mandelbrot Set with a yellow background, featuring zooming and panning functionality. As the picture is zoomed in, another Mandelbrot Set is displayed, gradually returning to the original position when zooming out. The size of the image can be adjusted by changing the position of the set in the code. 
+This Mandelbrot Set has been developed using Kotlin in IntelliJ. The output displays a Mandelbrot Set with a yellow background, featuring zooming and panning functionality. As the picture is zoomed in, another Mandelbrot Set is displayed, gradually returning to the original position when zooming out. The size of the image can be adjusted by changing the position of the set in the code. 
 
 
 
